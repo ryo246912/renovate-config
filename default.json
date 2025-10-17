@@ -7,6 +7,7 @@
   "dependencyDashboard": true,
   "timezone": "Asia/Tokyo",
   "reviewers": ["ryo246912"],
+  "rebaseWhen": "conflicted",
   "assignAutomerge": true,
   "minimumReleaseAge": "3 days",
   "internalChecksFilter": "strict",
