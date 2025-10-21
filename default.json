@@ -12,15 +12,7 @@
   "minimumReleaseAge": "3 days",
   "internalChecksFilter": "strict",
   "vulnerabilityAlerts": {
-    "groupName": null,
-    "schedule": [],
-    "dependencyDashboardApproval": false,
-    "minimumReleaseAge": null,
-    "rangeStrategy": "update-lockfile",
-    "commitMessageSuffix": "[SECURITY]",
-    "branchTopic": "{{{datasource}}}-{{{depNameSanitized}}}-vulnerability",
-    "prCreation": "immediate",
-    "vulnerabilityFixStrategy": "lowest"
+    "labels": ["security"]
   },
   "customDatasources": {
     "brew-formula": {
